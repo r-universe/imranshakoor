@@ -8,3 +8,8 @@
 	url = https://github.com/cran/ComRiskModel
 	shallow = true
 	registered = true
+[submodule "DataSetsUni"]
+	path = DataSetsUni
+	url = https://github.com/cran/DataSetsUni
+	shallow = true
+	registered = true
