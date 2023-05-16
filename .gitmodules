@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ActuarialM"]
+	path = ActuarialM
+	url = https://github.com/cran/ActuarialM
+	shallow = true
+	registered = true
 [submodule "ComRiskModel"]
 	path = ComRiskModel
 	url = https://github.com/cran/ComRiskModel
