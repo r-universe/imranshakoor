@@ -13,6 +13,11 @@
 	url = https://github.com/cran/ComRiskModel
 	shallow = true
 	registered = true
+[submodule "countDM"]
+	path = countDM
+	url = https://github.com/cran/countDM
+	shallow = true
+	registered = true
 [submodule "DataSetsUni"]
 	path = DataSetsUni
 	url = https://github.com/cran/DataSetsUni
