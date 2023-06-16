@@ -23,3 +23,8 @@
 	url = https://github.com/cran/DataSetsUni
 	shallow = true
 	registered = true
+[submodule "DDPM"]
+	path = DDPM
+	url = https://github.com/cran/DDPM
+	shallow = true
+	registered = true
