@@ -17,3 +17,6 @@
 [submodule "DDPM"]
 	path = DDPM
 	url = https://github.com/cran/DDPM
+[submodule "dprop"]
+	path = dprop
+	url = https://github.com/cran/dprop
