@@ -8,15 +8,15 @@
 [submodule "ComRiskModel"]
 	path = ComRiskModel
 	url = https://github.com/cran/ComRiskModel
-[submodule "countDM"]
-	path = countDM
-	url = https://github.com/cran/countDM
-[submodule "DataSetsUni"]
-	path = DataSetsUni
-	url = https://github.com/cran/DataSetsUni
 [submodule "DDPM"]
 	path = DDPM
 	url = https://github.com/cran/DDPM
+[submodule "DataSetsUni"]
+	path = DataSetsUni
+	url = https://github.com/cran/DataSetsUni
+[submodule "countDM"]
+	path = countDM
+	url = https://github.com/cran/countDM
 [submodule "dprop"]
 	path = dprop
 	url = https://github.com/cran/dprop
