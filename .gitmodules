@@ -17,6 +17,9 @@
 [submodule "countDM"]
 	path = countDM
 	url = https://github.com/cran/countDM
+[submodule "dhsage"]
+	path = dhsage
+	url = https://github.com/cran/dhsage
 [submodule "dprop"]
 	path = dprop
 	url = https://github.com/cran/dprop
