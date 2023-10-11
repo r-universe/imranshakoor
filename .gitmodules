@@ -23,3 +23,6 @@
 [submodule "dprop"]
 	path = dprop
 	url = https://github.com/cran/dprop
+[submodule "hivdata"]
+	path = hivdata
+	url = https://github.com/cran/hivdata
