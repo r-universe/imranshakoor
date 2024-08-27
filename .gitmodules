@@ -26,3 +26,6 @@
 [submodule "hivdata"]
 	path = hivdata
 	url = https://github.com/cran/hivdata
+[submodule "shannon"]
+	path = shannon
+	url = https://github.com/cran/shannon
